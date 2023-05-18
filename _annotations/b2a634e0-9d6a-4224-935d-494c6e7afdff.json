@@ -4,7 +4,29 @@ order: 1
 ---
 {
     "type": "Annotation",
-    "body": [],
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "comment",
+            "purpose": "supplementing",
+            "creator": {
+                "id": "jacektl",
+                "name": "Jacek Tlaga"
+            },
+            "created": "2023-05-18T22:33:59.463Z",
+            "modified": "2023-05-18T22:34:08.640Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "V",
+            "purpose": "tagging",
+            "creator": {
+                "id": "jacektl",
+                "name": "Jacek Tlaga"
+            },
+            "created": "2023-05-18T22:34:14.876Z"
+        }
+    ],
     "target": {
         "source": "https://jacektl.github.io/annonatate/img/derivatives/iiif/chiny/canvas/chiny-1",
         "selector": {
