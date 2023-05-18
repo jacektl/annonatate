@@ -1,0 +1,25 @@
+---
+canvas: "https://jacektl.github.io/annonatate/img/derivatives/iiif/chiny/canvas/chiny-1"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [],
+    "target": {
+        "source": "https://jacektl.github.io/annonatate/img/derivatives/iiif/chiny/canvas/chiny-1",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"202.5646209716797,208.61679077148438 1454.265380859375,217.6870880126953 1454.5943548226458,172.28869048958748 202.8935949349504,163.21839324837654\" /></svg>"
+        },
+        "renderedVia": {
+            "name": "annotorious-tilted-box"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://jacektl.github.io/annonatate/img/derivatives/iiif/chiny/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "b2a634e0-9d6a-4224-935d-494c6e7afdff.json",
+    "motivation": "commenting"
+}
